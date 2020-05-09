@@ -10,8 +10,7 @@ a number of security principles and technologies, including crypto, integrity, a
 and Public-Key Infrastructure (PKI).
 
 One can follow the lab structure to build a UDP based tunnel in Task 2, and then build a TLS/TCP based VPN from Task 3-5. I
-also add a demonstration video to understand the functioning of the VPN and explaining the important steps in the code. The
-code is written in C language.
+also have a demonstration video to understand the functioning of the VPN and explaining the important steps in the code. Please let me know if you need one and I can share a link to the video. The code is written in C language.
 
 ## Motivation
 
